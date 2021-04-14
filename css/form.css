@@ -1,0 +1,14 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+.required {
+  color: red;
+}
+textarea {
+  width: 73%;
+}
+.long {
+  margin: 0;
+  width: 70%;
+}
